@@ -1,0 +1,71 @@
+1. REST API
+2. Traffic Estimation
+3. Choke point
+4. Load balancing
+5. Horizontal Scaling / Vertical Scaling
+6. Distributed Database
+7. How the internet works
+8. UDP packet
+9. Latency - response time (different types of latency) 
+
+10. Client server model
+
+11. OSI model
+    Application
+    Presentation
+    Session
+    Transport
+    Network
+    Data Link 
+    Physical (Wire/Wireless)
+
+12. How two process communicate with each other  in a computer?
+  (Shared memory/ Message Passing / Common file sharing / Netwokring)
+
+   Linux Kernel (IPC), Socket, API
+
+NIC - Network interface card
+MAC - Media Access Control
+
+MAC is burned into NIC
+
+
+13. How two process on different computers communicates? 
+  -- Need a path for communicating
+
+14. Data Transfer Rate (kbps)
+     16 kbps means a transfer rate of 16*1024 bits per second
+
+15. Bandwidth - 
+16. Bandwidth vs data transfer rate
+17. Port (https: 443  , http: 80)
+    process to port is mapped one to one (Transport Layer)
+18. Socket Programming 
+	
+	TCP port range : 
+	ring buffer :
+	-->all linux curnet buffers are aynchronous.
+
+19 . Server timeout 
+20. TCP Handshaking
+		HTTP/HTTPS --> applicaion layer protocol
+		TCP/UDP --> Transport layer protocol
+
+21. Stateful vs Stateless 
+22. Contrack
+
+23. Operating system can be diviced into two space:
+ User Space
+ Kernel Space
+
+24. NAT GateWay - Network Address Translation
+
+25. Switch vs Router
+
+    CIDR (classless interdomain routing)
+    //Practical Networking (CCNA)
+
+26. IP Pool
+27. DHCP vs NAT
+28. Rate Limiting
+
